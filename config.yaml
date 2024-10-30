@@ -1,0 +1,6 @@
+path: D:\\College\\Sem 5\\Package\\ML\\Circles\\Mywork
+train: train/images
+val: Test/images
+
+names:
+  0: pipes
